@@ -1,4 +1,4 @@
-me: Binder
+name: Binder
 on: [push]
 
 jobs:
